@@ -1,0 +1,2 @@
+plain spawn           : console window 0xd109ec, visible=1
+with CREATE_NO_WINDOW : no console window (GetConsoleWindow = NULL)
